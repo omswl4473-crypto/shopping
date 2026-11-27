@@ -735,50 +735,6 @@
   "ad_evidence": "유료 광고 표시·캡션 광고 표기 없음 (2026-11-26 원본 게시물 확인)"
  },
  {
-  "id": 21,
-  "added": "2026-11-26T16:41:21+09:00",
-  "source_url": "https://www.instagram.com/share/BATKmbD-TF",
-  "influencer": "@sooooorok",
-  "brand": "유니클로",
-  "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
-  "item_no": "477345",
-  "price": 49900,
-  "official_price": 49900,
-  "verified": true,
-  "product_url": "https://www.uniqlo.com/kr/ko/products/E477345-000/00?colorDisplayCode=58",
-  "image": "images/uniqlo-477345.jpg",
-  "image_url": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/477345/item/krgoods_58_477345_3x4.jpg",
-  "note": "UNISEX, 온라인단독. Look1, 58 Dark Green / M / 77cm(영상 자막). 기간한정가격. 협찬 광고 게시물. 원본 릴스: https://www.instagram.com/reels/DdIqJ-mBZpr/",
-  "ad": "광고",
-  "ad_evidence": "캡션 첫머리에 본인이 \"*광고\" 표기 (인스타 유료 광고 표시는 없음) (2026-11-26 원본 게시물 확인)",
-  "colors": [
-   "56 OLIVE",
-   "01 OFF WHITE",
-   "09 BLACK",
-   "30 NATURAL",
-   "32 BEIGE",
-   "58 DARK GREEN"
-  ],
-  "sizes": [
-   "XS",
-   "S",
-   "M",
-   "L",
-   "XL",
-   "XXL",
-   "3XL"
-  ],
-  "original_price": 49900,
-  "sale_price": null,
-  "sale_label": null,
-  "official_available": true,
-  "availability_note": "일부 옵션 품절",
-  "sold_out": [
-   "09 BLACK / M"
-  ],
-  "price_checked": "2026-11-27 12:00"
- },
- {
   "id": 22,
   "added": "2026-11-26T16:41:21+09:00",
   "source_url": "https://www.instagram.com/share/BATKmbD-TF",
@@ -949,47 +905,6 @@
   "price_checked": "2026-11-27 10:25",
   "official_available": true,
   "availability_note": "공홈 품절 임박"
- },
- {
-  "id": 38,
-  "added": "2026-11-26T17:12:15+09:00",
-  "source_url": null,
-  "influencer": null,
-  "brand": "유니클로",
-  "name": "PUFFTECH재킷",
-  "item_no": "487408",
-  "price": 89900,
-  "official_price": 89900,
-  "original_price": 89900,
-  "sale_price": null,
-  "sale_label": null,
-  "price_checked": "2026-11-27 12:00",
-  "verified": true,
-  "product_url": "https://www.uniqlo.com/kr/ko/products/E487408-000/00?colorDisplayCode=19",
-  "image": "images/uniqlo-487408.jpg",
-  "image_url": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487408/item/krgoods_19_487408_3x4.jpg",
-  "colors": [
-   "19 WINE",
-   "00 WHITE",
-   "05 GRAY",
-   "09 BLACK",
-   "35 BROWN"
-  ],
-  "sizes": [
-   "XS",
-   "S",
-   "M",
-   "L",
-   "XL",
-   "XXL",
-   "3XL"
-  ],
-  "official_available": true,
-  "availability_note": null,
-  "sold_out": [],
-  "ad": null,
-  "ad_evidence": null,
-  "note": "WOMEN. 사용자가 직접 추가한 상품(인스타 게시물 없음). 공홈 상품명 PUFFTECH재킷."
  },
  {
   "id": 39,
